@@ -304,7 +304,7 @@ export default function App() {
                   <div className="bg-white rounded-xl border border-[#E5E5E5] shadow-sm flex flex-col">
                     <div className="p-5 border-b border-[#E5E5E5]">
                       <h3 className="font-bold text-brand-black">Top Pin Code Risk Areas</h3>
-                      <p className="text-xs text-gray-500 mt-1">High volume zones with RTO > 15%</p>
+                      <p className="text-xs text-gray-500 mt-1">High volume zones with RTO &gt; 15%</p>
                     </div>
                     <div className="p-0 flex-1 overflow-auto">
                       <ul className="divide-y divide-[#E5E5E5]">
